@@ -1,6 +1,6 @@
 package electronic.scoreboard;
 
-import electronic.scoreboard.utils.DatabaseConnector;
+import common.DatabaseConnector;
 import electronic.scoreboard.utils.FlightBoardPrinter;
 import electronic.scoreboard.utils.language.Language;
 import electronic.scoreboard.utils.language.LanguageTextPrinter;
